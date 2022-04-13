@@ -1,0 +1,5 @@
+
+{
+    "presents" : ["next/babel"],
+    "plugins" : []
+}
